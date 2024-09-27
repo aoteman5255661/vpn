@@ -8,9 +8,9 @@
 
 **:arrow_double_down: [iOS 海外商店版本](https://apps.apple.com/hk/app/xiyou-vpn/id1587121262)**
 
-**:arrow_double_down: [Windows 版本.exe](https://github.com/xiyou88/vpn/raw/main/file/seeyou[Github]-V1.1.5.exe)**
+**:arrow_double_down: [Windows 版本.exe](https://github.com/xiyou88/vpn/raw/refs/heads/main/file/seeyou%5BGithub%5D-V1.1.5.exe)**
 
-**:arrow_double_down: [macOS 版本.pkg](https://github.com/xiyou88/vpn/raw/main/file/seeyou-V1.0.49[GitHub].pkg)**
+**:arrow_double_down: [macOS 版本.pkg](https://github.com/xiyou88/vpn/raw/refs/heads/main/file/seeyou-V1.0.49%5BGitHub%5D.pkg)**
 
 **:arrow_double_down: [永久官网（需翻墙访问）](https://www.xyvpn.app)** 
 - - - -
